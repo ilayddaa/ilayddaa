@@ -1,6 +1,6 @@
-        HI EVERYONE, IM ILAYDA🎀
+        🙌🏻🎀HI EVERYONE, IM ILAYDA🎀🙌🏻
 💻im software developer
-🏳️I share the codes I created
+🏳️  i share the codes I created  🏳️
 
 
 <!---

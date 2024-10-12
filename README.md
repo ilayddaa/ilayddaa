@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm İlayda from İstanbul<br><br>- 🔭 I’m working as Full Stack Developer<br>- 📚 I'm currently learning .Net 8<br>- 👍 In my free time, I usually do sports and play chill games.</p>
+<p align="left">I'm ilayda from Istanbul<br><br>- 🔭 I’m working as Full Stack Developer<br>- 📚 I'm currently learning .Net 8<br>- 👍 In my free time, I usually do sports and play chill games.</p>
 
 ###
 

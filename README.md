@@ -1,18 +1,15 @@
-<h2 align="center">Hey there, I'm ilayda 💗</h2>
+<h2 align="center">hi everyone ! im ilayda 💗</h2>
 
 ###
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; text-align: left;">
-    👩💻 About Me<br><br>
-    I'm İlayda from Istanbul<br><br>
-    - 🔭 I’m working as a Full Stack Developer<br>
-    - 📚 I'm currently learning .NET 8<br>
-    - 👍 In my free time, I usually do sports and play chill games.
-  </div>
-  <div>
-   <img height="150" src="https://i.pinimg.com/originals/20/40/88/20408809f7a94727bfe8f1437cb801d3.gif"  />
-  </div>
+<p align="left">👩‍💻 About Me<br><br>I'm ilayda from Istanbul<br><br>- 🔭 I’m working as Full Stack Developer<br>- 📚 I'm currently learning .Net 8<br>- 👍 In my free time, I usually do sports and play chill games.</p>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="150" src="https://i.pinimg.com/originals/20/40/88/20408809f7a94727bfe8f1437cb801d3.gif"  />
 </div>
 
 ###

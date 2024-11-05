@@ -11,7 +11,7 @@
     - 👍 In my free time, I usually do sports and play chill games.
   </div>
   <div>
-    <img height="150" src="https://i.pinimg.com/originals/20/40/88/20408809f7a94727bfe8f1437cb801d3.gif" />
+   <img height="150" src="https://i.pinimg.com/originals/20/40/88/20408809f7a94727bfe8f1437cb801d3.gif"  />
   </div>
 </div>
 

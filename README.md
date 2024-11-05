@@ -9,7 +9,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/20/40/88/20408809f7a94727bfe8f1437cb801d3.gif"  />
+  
 </div>
 
 ###

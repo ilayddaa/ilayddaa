@@ -1,4 +1,7 @@
-<h1 align="center">🤍 Hey There 🤍</h1>
+<div style="font-size: 48px; color: #ff69b4; font-weight: 100; font-style: italic; text-shadow: 0 0 5px #ff69b4, 0 0 10px #ff69b4, 0 0 20px #ff69b4, 0 0 40px #ff69b4, 0 0 80px #ff69b4;">
+    hey there, I'm ilayda 💖
+</div>
+
 
 ###
 

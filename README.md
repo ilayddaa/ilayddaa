@@ -12,15 +12,6 @@
   
 </div>
 
-###
-
-<h2 align="center">🛠 Language and tools</h2>
-
-###
-
-<br clear="both">
-
-
 
 ###
 
